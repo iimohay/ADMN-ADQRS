@@ -1,0 +1,30 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "abu dhabi quran radio",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayRadioIntent",
+          "samples": [
+            "play abu dhabi quran radio",
+            "open abu dhabi quran radio",
+            "start abu dhabi quran radio"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

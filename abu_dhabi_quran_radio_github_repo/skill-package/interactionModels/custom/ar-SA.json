@@ -1,0 +1,30 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "اذاعة القرآن الكريم ابوظبي",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayRadioIntent",
+          "samples": [
+            "شغل اذاعة القرآن الكريم ابوظبي",
+            "افتح اذاعة القرآن الكريم ابوظبي",
+            "ابدأ اذاعة القرآن الكريم ابوظبي"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

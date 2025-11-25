@@ -1,0 +1,10 @@
+{
+  "name": "abu-dhabi-quran-radio",
+  "version": "1.0.0",
+  "description": "Alexa skill to play Abu Dhabi Quran Radio",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.10.0",
+    "ask-sdk-model": "^1.26.0"
+  }
+}
