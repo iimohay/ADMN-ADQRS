@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Abu Dhabi Quran",
+          "summary": "Stream Abu Dhabi Quran live radio.",
+          "description": "This Alexa skill plays the live stream of Abu Dhabi Quran radio."
+        },
+        "ar-SA": {
+          "name": "إذاعة أبوظبي للقرآن",
+          "summary": "تشغيل إذاعة أبوظبي للقرآن مباشرة.",
+          "description": "هذا السكيل يقوم بتشغيل البث المباشر إذاعة أبوظبي للقرآن."
+        }
+      },
+      "isAvailableWorldwide": true,
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "lambdaArnPlaceholder"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

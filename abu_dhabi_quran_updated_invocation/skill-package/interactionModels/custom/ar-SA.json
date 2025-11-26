@@ -1,0 +1,30 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "إذاعة أبوظبي للقرآن",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayRadioIntent",
+          "samples": [
+            "شغل إذاعة أبوظبي للقرآن",
+            "افتح إذاعة أبوظبي للقرآن",
+            "ابدأ إذاعة أبوظبي للقرآن"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
